@@ -1,0 +1,16 @@
+{
+  "name": "hacker-news-clone",
+  "version": "1.0.0",
+  "description": "A hacker news clone app made using Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hacker",
+    "News",
+    "Clone"
+  ],
+  "author": "Felix Omuok",
+  "license": "MIT"
+}
